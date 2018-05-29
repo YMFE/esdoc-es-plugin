@@ -3,7 +3,7 @@
 
 配置如下代码到 `plugins`中即可。
 
-```json
+```javascript
 {
     name: "esdoc-es-plugin",
     option: {
